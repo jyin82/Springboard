@@ -15,5 +15,5 @@ This repository hosts all projects/assignments completed as part of the Springbo
 - 9.  [Logistic Regression](https://github.com/jyin82/Springboard/blob/master/Projects/8.%20Logistic%20Regression.ipynb)
 - 10. [Naive Bayes](https://github.com/jyin82/Springboard/blob/master/Projects/9.%20Naive_Bayes.ipynb)
 - 11. [Clustering](https://github.com/jyin82/Springboard/blob/master/Projects/10.Clustering.ipynb)
-- 12. [Take Home Challenge I:  Relax Challenges]()
-- 13. [Take Home Challenge II: Ultimate Challenges]()
+- 12. [Take Home Challenge I:  Ultimate Challenges]()
+- 13. [Take Home Challenge II: Relax Challenges]()

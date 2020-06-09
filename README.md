@@ -5,6 +5,7 @@ This repository hosts all projects/assignments completed as part of the Springbo
 
 ## Table of Contents
 -1. [JSON Exercise](https://github.com/jyin82/Springboard/blob/master/Projects/1.%20JSON_exercise.ipynb)
+
 -2. [SQL Query](https://github.com/jyin82/Springboard/blob/master/Projects/2.%20SQL.sql)
 -3. [API Exercise](https://github.com/jyin82/Springboard/blob/master/Projects/3.%20API.ipynb)
 -4. [Inferential Statistics-a](https://github.com/jyin82/Springboard/blob/master/Projects/4.a.Inferential%20Statistics.ipynb)

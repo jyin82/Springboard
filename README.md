@@ -16,4 +16,4 @@ This repository hosts all projects/assignments completed as part of the Springbo
 - 10. [Naive Bayes](https://github.com/jyin82/Springboard/blob/master/Projects/9.%20Naive_Bayes.ipynb)
 - 11. [Clustering](https://github.com/jyin82/Springboard/blob/master/Projects/10.Clustering.ipynb)
 - 12. [Take Home Challenge I:  Ultimate Challenges](https://github.com/jyin82/Springboard/blob/master/Projects/11.Ultimate%20Challenge-Final.ipynb)
-- 13. [Take Home Challenge II: Relax Challenges (https://github.com/jyin82/Springboard/blob/master/Projects/12.Relax_Challenge.ipynb)
+- 13. [Take Home Challenge II: Relax Challenges](https://github.com/jyin82/Springboard/blob/master/Projects/12.Relax_Challenge.ipynb)
